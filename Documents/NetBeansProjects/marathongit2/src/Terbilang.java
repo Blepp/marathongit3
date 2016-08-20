@@ -9,8 +9,7 @@
  * @author UPHM
  */
 public class Terbilang {
-    
-    public static String proses(int value) {
+      public static String proses(int value) {
         String[] bilangan = {"", "satu", "dua", "tiga", "empat", "lima", "enam", "tujuh", "delapan", "sembilan", "sepuluh", "sebelas"};
         String temp = " ";
         if (value < 12) {
