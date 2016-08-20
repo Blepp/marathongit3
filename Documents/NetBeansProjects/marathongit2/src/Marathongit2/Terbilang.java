@@ -20,5 +20,6 @@ public class Terbilang {
             temp = proses(value / 1000) + " ribu" + proses(value % 1000);
         }
         return temp;
+        
     }
 }
